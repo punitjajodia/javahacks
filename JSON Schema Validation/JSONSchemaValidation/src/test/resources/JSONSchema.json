@@ -1,0 +1,14 @@
+{
+    "title": "AKNAnalyticsAlarm",
+    "properties": {
+        "timestamp": {
+            "type": "number",
+            "description": "Seconds elapsed since Jan 1st, 1970"
+        },
+        "idsite": {
+            "type": "string",
+            "description": "Site unique identifier"
+        }
+	},
+	"required" : ["timestamp", "idsite"]
+}
