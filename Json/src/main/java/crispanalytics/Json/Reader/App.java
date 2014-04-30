@@ -1,4 +1,4 @@
-package crispanalytics.Json;
+package crispanalytics.Json.Reader;
 
 /**
  * Hello world!
